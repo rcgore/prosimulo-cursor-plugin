@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "prosimulo": {
+      "url": "https://dev.prosimulo.ai/api/mcp"
+    }
+  }
+}
