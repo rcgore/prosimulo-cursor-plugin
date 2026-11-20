@@ -1,0 +1,15 @@
+{
+  "name": "prosimulo-ai-data",
+  "version": "1.0.0",
+  "description": "Connect to ProSimulo AI Data to organize, retrieve, and manage user-authorized Items, Records, attachments, and reminders through a remote MCP service. Changes require review and confirmation.",
+  "author": {
+    "name": "PROSIMULO LLC",
+    "email": "admin@prosimulo.com"
+  },
+  "homepage": "https://prosimulo.ai",
+  "repository": "https://github.com/rcgore/prosimulo-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["prosimulo", "mcp", "records", "knowledge", "reminders"],
+  "logo": "https://prosimulo.ai/brand/prosimulo-ai-data-icon.png",
+  "mcpServers": "mcp.json"
+}
